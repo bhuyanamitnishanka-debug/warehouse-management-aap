@@ -1,0 +1,6 @@
+{
+  "name": "Warehouse Twin - Maintenance & Operations",
+  "description": "Interactive animated warehouse management and maintenance digital twin with simulated optical camera QR scanner for instant asset diagnostics, real-time AMR fleet tracking, labor workforce management, runtime preventive maintenance scheduling, spare parts inventory tracking, conveyor diagnostics, and predictive maintenance telemetry.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
